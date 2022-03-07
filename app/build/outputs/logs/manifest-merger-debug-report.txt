@@ -1,0 +1,152 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ezara\Documents\Programacion\Android_java\Assignments\m8-calculator\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\ezara\Documents\Programacion\Android_java\Assignments\m8-calculator\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\ezara\Documents\Programacion\Android_java\Assignments\m8-calculator\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\ezara\Documents\Programacion\Android_java\Assignments\m8-calculator\app\src\main\AndroidManifest.xml:2:1-20:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\ezara\.gradle\caches\transforms-3\478e083610b58314f6b02dca78527635\transformed\material-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\ezara\.gradle\caches\transforms-3\537ac674cb63576a02e5614148462d37\transformed\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ezara\.gradle\caches\transforms-3\b36cd2c1f128593c4ded8f16adf452df\transformed\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\ezara\.gradle\caches\transforms-3\9c1abf05fa201de902114ecddc512b6f\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\ezara\.gradle\caches\transforms-3\6b269fc598877cdc36bebf9e031980a0\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\ezara\.gradle\caches\transforms-3\b4cdd6455e87115728df6f1d8e0848cd\transformed\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ezara\.gradle\caches\transforms-3\8f13b38601e938e615567739955b2f8d\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\ezara\.gradle\caches\transforms-3\b77eee85e8b8d416081f9c9bdce3f571\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\ezara\.gradle\caches\transforms-3\2d2560d4b21baadc4625e2fe98796fe7\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ezara\.gradle\caches\transforms-3\8a92acf62b22954cffc78c87557950d8\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ezara\.gradle\caches\transforms-3\785b45d4626b8477804f815842b9f464\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ezara\.gradle\caches\transforms-3\d6567e451bc69d590043a77be12dffbd\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ezara\.gradle\caches\transforms-3\1c1bb3fc886192eeea01e3b6875ac15d\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\ezara\.gradle\caches\transforms-3\d289f1a194e857d10004b4b3eea6ed83\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\ezara\.gradle\caches\transforms-3\c27c9221b11ad459ca0aecf2f9070b73\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ezara\.gradle\caches\transforms-3\88208398556668f3c0d3db43cf3bff7a\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\ezara\.gradle\caches\transforms-3\e9af45ad7547cbf3429fb7eacf7c8801\transformed\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ezara\.gradle\caches\transforms-3\3b9a1ffa00e7fdcdd60284a8c02e2ffc\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ezara\.gradle\caches\transforms-3\622535caef3a53b5f44b5eb0c5303c9c\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ezara\.gradle\caches\transforms-3\db66073beef7353f847efe00708dfbdd\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\ezara\.gradle\caches\transforms-3\a785e69ca8cdb748425ff504eaf1ce4f\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\ezara\.gradle\caches\transforms-3\6d6bad5314f6f2bf6e66adcf789145eb\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\ezara\.gradle\caches\transforms-3\e85ae9782f57c9f99c3f848bcfa86245\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ezara\.gradle\caches\transforms-3\8c6d7042b7460bd92f4866c78ca8dc69\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ezara\.gradle\caches\transforms-3\19cc01654d87c40c1b34085648087fed\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ezara\.gradle\caches\transforms-3\a28e86d3d96eb76ed5d52ae236c54a1c\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ezara\.gradle\caches\transforms-3\d6519da1a966f6fbf8eb27422cd8f7aa\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\ezara\Documents\Programacion\Android_java\Assignments\m8-calculator\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\ezara\Documents\Programacion\Android_java\Assignments\m8-calculator\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\ezara\Documents\Programacion\Android_java\Assignments\m8-calculator\app\src\main\AndroidManifest.xml:2:1-20:12
+	package
+		ADDED from C:\Users\ezara\Documents\Programacion\Android_java\Assignments\m8-calculator\app\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from C:\Users\ezara\Documents\Programacion\Android_java\Assignments\m8-calculator\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ezara\Documents\Programacion\Android_java\Assignments\m8-calculator\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\ezara\Documents\Programacion\Android_java\Assignments\m8-calculator\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ezara\Documents\Programacion\Android_java\Assignments\m8-calculator\app\src\main\AndroidManifest.xml:2:1-20:12
+		INJECTED from C:\Users\ezara\Documents\Programacion\Android_java\Assignments\m8-calculator\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\ezara\Documents\Programacion\Android_java\Assignments\m8-calculator\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ezara\Documents\Programacion\Android_java\Assignments\m8-calculator\app\src\main\AndroidManifest.xml:2:1-20:12
+		INJECTED from C:\Users\ezara\Documents\Programacion\Android_java\Assignments\m8-calculator\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ezara\Documents\Programacion\Android_java\Assignments\m8-calculator\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\ezara\Documents\Programacion\Android_java\Assignments\m8-calculator\app\src\main\AndroidManifest.xml:5:5-18:19
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\ezara\.gradle\caches\transforms-3\478e083610b58314f6b02dca78527635\transformed\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\ezara\.gradle\caches\transforms-3\478e083610b58314f6b02dca78527635\transformed\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ezara\.gradle\caches\transforms-3\b36cd2c1f128593c4ded8f16adf452df\transformed\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ezara\.gradle\caches\transforms-3\b36cd2c1f128593c4ded8f16adf452df\transformed\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\ezara\.gradle\caches\transforms-3\e9af45ad7547cbf3429fb7eacf7c8801\transformed\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\ezara\.gradle\caches\transforms-3\e9af45ad7547cbf3429fb7eacf7c8801\transformed\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ezara\.gradle\caches\transforms-3\db66073beef7353f847efe00708dfbdd\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ezara\.gradle\caches\transforms-3\db66073beef7353f847efe00708dfbdd\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\ezara\.gradle\caches\transforms-3\e9af45ad7547cbf3429fb7eacf7c8801\transformed\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\ezara\Documents\Programacion\Android_java\Assignments\m8-calculator\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from C:\Users\ezara\Documents\Programacion\Android_java\Assignments\m8-calculator\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from C:\Users\ezara\Documents\Programacion\Android_java\Assignments\m8-calculator\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\ezara\Documents\Programacion\Android_java\Assignments\m8-calculator\app\src\main\AndroidManifest.xml:6:9-35
+activity#mooc.vandy.java4android.calculator.ui.MainActivity
+ADDED from C:\Users\ezara\Documents\Programacion\Android_java\Assignments\m8-calculator\app\src\main\AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from C:\Users\ezara\Documents\Programacion\Android_java\Assignments\m8-calculator\app\src\main\AndroidManifest.xml:11:19-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\ezara\Documents\Programacion\Android_java\Assignments\m8-calculator\app\src\main\AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\ezara\Documents\Programacion\Android_java\Assignments\m8-calculator\app\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from C:\Users\ezara\Documents\Programacion\Android_java\Assignments\m8-calculator\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ezara\Documents\Programacion\Android_java\Assignments\m8-calculator\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from C:\Users\ezara\Documents\Programacion\Android_java\Assignments\m8-calculator\app\src\main\AndroidManifest.xml:15:27-74
+uses-sdk
+INJECTED from C:\Users\ezara\Documents\Programacion\Android_java\Assignments\m8-calculator\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ezara\Documents\Programacion\Android_java\Assignments\m8-calculator\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ezara\Documents\Programacion\Android_java\Assignments\m8-calculator\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\ezara\.gradle\caches\transforms-3\478e083610b58314f6b02dca78527635\transformed\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\ezara\.gradle\caches\transforms-3\478e083610b58314f6b02dca78527635\transformed\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\ezara\.gradle\caches\transforms-3\537ac674cb63576a02e5614148462d37\transformed\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\ezara\.gradle\caches\transforms-3\537ac674cb63576a02e5614148462d37\transformed\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ezara\.gradle\caches\transforms-3\b36cd2c1f128593c4ded8f16adf452df\transformed\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ezara\.gradle\caches\transforms-3\b36cd2c1f128593c4ded8f16adf452df\transformed\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\ezara\.gradle\caches\transforms-3\9c1abf05fa201de902114ecddc512b6f\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\ezara\.gradle\caches\transforms-3\9c1abf05fa201de902114ecddc512b6f\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\ezara\.gradle\caches\transforms-3\6b269fc598877cdc36bebf9e031980a0\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\ezara\.gradle\caches\transforms-3\6b269fc598877cdc36bebf9e031980a0\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\ezara\.gradle\caches\transforms-3\b4cdd6455e87115728df6f1d8e0848cd\transformed\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\ezara\.gradle\caches\transforms-3\b4cdd6455e87115728df6f1d8e0848cd\transformed\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ezara\.gradle\caches\transforms-3\8f13b38601e938e615567739955b2f8d\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ezara\.gradle\caches\transforms-3\8f13b38601e938e615567739955b2f8d\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\ezara\.gradle\caches\transforms-3\b77eee85e8b8d416081f9c9bdce3f571\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\ezara\.gradle\caches\transforms-3\b77eee85e8b8d416081f9c9bdce3f571\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\ezara\.gradle\caches\transforms-3\2d2560d4b21baadc4625e2fe98796fe7\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\ezara\.gradle\caches\transforms-3\2d2560d4b21baadc4625e2fe98796fe7\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ezara\.gradle\caches\transforms-3\8a92acf62b22954cffc78c87557950d8\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ezara\.gradle\caches\transforms-3\8a92acf62b22954cffc78c87557950d8\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ezara\.gradle\caches\transforms-3\785b45d4626b8477804f815842b9f464\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ezara\.gradle\caches\transforms-3\785b45d4626b8477804f815842b9f464\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ezara\.gradle\caches\transforms-3\d6567e451bc69d590043a77be12dffbd\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ezara\.gradle\caches\transforms-3\d6567e451bc69d590043a77be12dffbd\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ezara\.gradle\caches\transforms-3\1c1bb3fc886192eeea01e3b6875ac15d\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ezara\.gradle\caches\transforms-3\1c1bb3fc886192eeea01e3b6875ac15d\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\ezara\.gradle\caches\transforms-3\d289f1a194e857d10004b4b3eea6ed83\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\ezara\.gradle\caches\transforms-3\d289f1a194e857d10004b4b3eea6ed83\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\ezara\.gradle\caches\transforms-3\c27c9221b11ad459ca0aecf2f9070b73\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\ezara\.gradle\caches\transforms-3\c27c9221b11ad459ca0aecf2f9070b73\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ezara\.gradle\caches\transforms-3\88208398556668f3c0d3db43cf3bff7a\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ezara\.gradle\caches\transforms-3\88208398556668f3c0d3db43cf3bff7a\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\ezara\.gradle\caches\transforms-3\e9af45ad7547cbf3429fb7eacf7c8801\transformed\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\ezara\.gradle\caches\transforms-3\e9af45ad7547cbf3429fb7eacf7c8801\transformed\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ezara\.gradle\caches\transforms-3\3b9a1ffa00e7fdcdd60284a8c02e2ffc\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ezara\.gradle\caches\transforms-3\3b9a1ffa00e7fdcdd60284a8c02e2ffc\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ezara\.gradle\caches\transforms-3\622535caef3a53b5f44b5eb0c5303c9c\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ezara\.gradle\caches\transforms-3\622535caef3a53b5f44b5eb0c5303c9c\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ezara\.gradle\caches\transforms-3\db66073beef7353f847efe00708dfbdd\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ezara\.gradle\caches\transforms-3\db66073beef7353f847efe00708dfbdd\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\ezara\.gradle\caches\transforms-3\a785e69ca8cdb748425ff504eaf1ce4f\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\ezara\.gradle\caches\transforms-3\a785e69ca8cdb748425ff504eaf1ce4f\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\ezara\.gradle\caches\transforms-3\6d6bad5314f6f2bf6e66adcf789145eb\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\ezara\.gradle\caches\transforms-3\6d6bad5314f6f2bf6e66adcf789145eb\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\ezara\.gradle\caches\transforms-3\e85ae9782f57c9f99c3f848bcfa86245\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\ezara\.gradle\caches\transforms-3\e85ae9782f57c9f99c3f848bcfa86245\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ezara\.gradle\caches\transforms-3\8c6d7042b7460bd92f4866c78ca8dc69\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ezara\.gradle\caches\transforms-3\8c6d7042b7460bd92f4866c78ca8dc69\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ezara\.gradle\caches\transforms-3\19cc01654d87c40c1b34085648087fed\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ezara\.gradle\caches\transforms-3\19cc01654d87c40c1b34085648087fed\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ezara\.gradle\caches\transforms-3\a28e86d3d96eb76ed5d52ae236c54a1c\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ezara\.gradle\caches\transforms-3\a28e86d3d96eb76ed5d52ae236c54a1c\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ezara\.gradle\caches\transforms-3\d6519da1a966f6fbf8eb27422cd8f7aa\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ezara\.gradle\caches\transforms-3\d6519da1a966f6fbf8eb27422cd8f7aa\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\ezara\Documents\Programacion\Android_java\Assignments\m8-calculator\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ezara\Documents\Programacion\Android_java\Assignments\m8-calculator\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\ezara\Documents\Programacion\Android_java\Assignments\m8-calculator\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ezara\Documents\Programacion\Android_java\Assignments\m8-calculator\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ezara\Documents\Programacion\Android_java\Assignments\m8-calculator\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ezara\Documents\Programacion\Android_java\Assignments\m8-calculator\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ezara\Documents\Programacion\Android_java\Assignments\m8-calculator\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ezara\Documents\Programacion\Android_java\Assignments\m8-calculator\app\src\main\AndroidManifest.xml
